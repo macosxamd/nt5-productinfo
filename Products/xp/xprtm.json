@@ -1,0 +1,200 @@
+[
+    {
+        "index": 0,
+        "bink": "0000002B",
+        "pid_range": [
+            119,
+            119
+        ],
+        "type": "OEM-SLP",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 1,
+        "bink": "0000002B",
+        "pid_range": [
+            120,
+            169
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 2,
+        "bink": "0000002B",
+        "pid_range": [
+            400,
+            699
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 3,
+        "bink": "0000002D",
+        "pid_range": [
+            119,
+            119
+        ],
+        "type": "OEM-SLP",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 4,
+        "bink": "0000002D",
+        "pid_range": [
+            120,
+            169
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 5,
+        "bink": "0000002D",
+        "pid_range": [
+            400,
+            699
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 6,
+        "bink": "0000002D",
+        "pid_range": [
+            170,
+            269
+        ],
+        "type": "OEM-COA",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 7,
+        "bink": "0000000D",
+        "pid_range": [
+            100,
+            199
+        ],
+        "type": "Embedded",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 125
+    },
+    {
+        "index": 8,
+        "bink": "0000000D",
+        "pid_range": [
+            200,
+            999
+        ],
+        "type": "Embedded",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 9,
+        "bink": "00000028",
+        "pid_range": [
+            5,
+            110
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 14,
+        "days_evaluation": 125
+    },
+    {
+        "index": 10,
+        "bink": "00000028",
+        "pid_range": [
+            112,
+            119
+        ],
+        "type": "Evaluation",
+        "days_to_activate": 120,
+        "days_evaluation": 45
+    },
+    {
+        "index": 11,
+        "bink": "0000002A",
+        "pid_range": [
+            5,
+            85
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 12,
+        "bink": "0000002A",
+        "pid_range": [
+            337,
+            359
+        ],
+        "type": "Tablet",
+        "days_to_activate": 60,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 13,
+        "bink": "0000002C",
+        "pid_range": [
+            5,
+            85
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 14,
+        "bink": "0000002C",
+        "pid_range": [
+            337,
+            359
+        ],
+        "type": "Tablet",
+        "days_to_activate": 60,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 15,
+        "bink": "0000002C",
+        "pid_range": [
+            755,
+            779
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 16,
+        "bink": "0000002C",
+        "pid_range": [
+            785,
+            789
+        ],
+        "type": "Retail",
+        "days_to_activate": 30,
+        "days_evaluation": 2147483647
+    },
+    {
+        "index": 17,
+        "bink": "0000002E",
+        "pid_range": [
+            640,
+            699
+        ],
+        "type": "Volume",
+        "days_to_activate": 2147483647,
+        "days_evaluation": 2147483647
+    }
+]
